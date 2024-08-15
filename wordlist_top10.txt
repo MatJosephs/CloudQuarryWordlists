@@ -1,0 +1,9 @@
+lib
+home
+var
+ubuntu
+anaconda3
+site-packages
+envs
+docker
+diff
